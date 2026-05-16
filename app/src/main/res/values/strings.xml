@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pratham Chikitse</string>
+    <string name="title_home">Emergencies</string>
+    <string name="title_hospitals">Nearby Hospitals</string>
+    <string name="btn_lang_en">English</string>
+    <string name="btn_lang_kn">ಕನ್ನಡ</string>
+    
+    <string name="action_audio_play">Play Audio</string>
+    <string name="action_audio_stop">Stop Audio</string>
+    <string name="splash_loading_text">Preparing your first-aid guide...</string>
+
+    <!-- Do's and Don'ts -->
+    <string name="title_dos">Do\'s / ಮಾಡಬೇಕಾದವು</string>
+    <string name="title_donts">Don\'ts / ಮಾಡಬಾರದವು</string>
+    
+    <!-- New Features -->
+    <string name="hint_search">Search emergencies...</string>
+    <string name="action_call_ambulance">Call 108</string>
+</resources>

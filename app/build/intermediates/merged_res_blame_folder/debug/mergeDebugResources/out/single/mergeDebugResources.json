@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_choking.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_choking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_heat_stroke.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_heat_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_item_emergency_step.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\item_emergency_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_poisoning.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_poisoning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\font_poppins.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\font\\poppins.ttf"
+    },
+    {
+        "merged": "com.prathamchikitse.app-debug-4:/drawable_ic_eye_injury.xml.flat",
+        "source": "com.prathamchikitse.app-main-6:/drawable/ic_eye_injury.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_asthma.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_asthma.xml"
+    },
+    {
+        "merged": "com.prathamchikitse.app-debug-4:/drawable_ic_hypoglycemia.xml.flat",
+        "source": "com.prathamchikitse.app-main-6:/drawable/ic_hypoglycemia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_item_hospital.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_bg_circle_primary.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\bg_circle_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_nosebleed.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_nosebleed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_drowning.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_drowning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_bleeding.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_bleeding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_head_injury.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_head_injury.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_electric_shock.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_electric_shock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_fracture.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_fracture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_bg_splash_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\bg_splash_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_seizure.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_seizure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_item_emergency_tile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\item_emergency_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\anim_fade_in_up.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\anim\\fade_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_activity_emergency_detail.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\activity_emergency_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_dog_bite.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_dog_bite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\layout_activity_hospital_finder.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\layout\\activity_hospital_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_fainting.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_fainting.xml"
+    },
+    {
+        "merged": "com.prathamchikitse.app-debug-4:/drawable_ic_allergy.xml.flat",
+        "source": "com.prathamchikitse.app-main-6:/drawable/ic_allergy.xml"
+    },
+    {
+        "merged": "com.prathamchikitse.app-debug-4:/drawable_ic_stroke.xml.flat",
+        "source": "com.prathamchikitse.app-main-6:/drawable/ic_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_heart_attack.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_heart_attack.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_hospital.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\anim_layout_animation_fall_down.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\anim\\layout_animation_fall_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_snake_bite.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_snake_bite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-debug-4:\\drawable_ic_burns.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.6\\com.prathamchikitse.app-main-6:\\drawable\\ic_burns.xml"
+    }
+]

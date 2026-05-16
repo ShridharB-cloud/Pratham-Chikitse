@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Cloud Shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,60 C10,60 5,45 15,35 C15,20 35,10 50,20 C65,10 85,20 85,35 C95,45 90,60 75,60 L25,60 Z" />
+    <!-- "PC" Text Placeholder -->
+    <path
+        android:fillColor="#006064"
+        android:pathData="M35,35 L45,35 C48,35 50,37 50,40 L50,45 C50,48 48,50 45,50 L42,50 L42,55 L35,55 Z M42,40 L42,45 L45,45 L45,40 Z M55,45 C55,38 75,38 75,45 L75,48 L68,48 L68,45 C68,43 62,43 62,45 L62,50 C62,52 68,52 68,50 L68,47 L75,47 L75,50 C75,57 55,57 55,50 Z" />
+</vector>
