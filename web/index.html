@@ -54,16 +54,19 @@
         </section>
 
         <section id="demo">
-            <h2 class="section-title">App Preview</h2>
+            <h2 class="section-title">Interactive Demo</h2>
             <div class="mockup-container">
-                <div class="mockup-screen">
+                <div class="mockup-screen" id="demo-screen">
+                    <!-- Screen content will be injected by JS -->
                     <div class="mockup-header">Pratham-Chikitse</div>
-                    <div class="mockup-tile"><span>🩹</span> Bleeding (ರಕ್ತಸ್ರಾವ)</div>
-                    <div class="mockup-tile"><span>🔥</span> Burns (ಸುಟ್ಟ ಗಾಯಗಳು)</div>
-                    <div class="mockup-tile"><span>🐍</span> Snake Bite (ಹಾವು ಕಡಿತ)</div>
-                    <div class="mockup-tile"><span>🫀</span> Heart Attack (ಹೃದಯಾಘಾತ)</div>
-                    <div class="mockup-tile"><span>⚡</span> Electric Shock (ವಿದ್ಯುತ್ ಆಘಾತ)</div>
-                    <div class="mockup-tile" style="opacity: 0.5">... +15 More</div>
+                    <div class="demo-list">
+                        <div class="mockup-tile" onclick="showScenario('bleeding')"><span>🩹</span> Bleeding</div>
+                        <div class="mockup-tile" onclick="showScenario('heart_attack')"><span>🫀</span> Heart Attack</div>
+                        <div class="mockup-tile" onclick="showScenario('snake_bite')"><span>🐍</span> Snake Bite</div>
+                        <div class="mockup-tile" onclick="showScenario('burns')"><span>🔥</span> Burns</div>
+                        <div class="mockup-tile" onclick="showScenario('electric_shock')"><span>⚡</span> Electric Shock</div>
+                        <p style="text-align:center; font-size: 0.8rem; margin-top: 1rem; color: #64748b;">(Click a scenario to start demo)</p>
+                    </div>
                 </div>
             </div>
         </section>
